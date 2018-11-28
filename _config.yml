@@ -1,13 +1,13 @@
 # Site settings
-title: Rone Blog
-SEOTitle:  曹世荣的博客 | Rone Blog
+title: Rone's Blog
+SEOTitle:  Rone's Blog
 header-img: img/post-bg-desk.jpg
 email: 13592468626@gmail.com
 description: "生前何必久睡，死后自会长眠。 -萧红"
-keyword: "Rone, Rone Blog, 世荣的博客, caoshirong, 曹世荣, Unity3d, Andorid, C#"
-url: "https://hellorone.github.io/"          # your host, for absolute URL
+keyword: "Rone,Rone's Blog,世荣的博客, caoshirong, 曹世荣, Unity3d, Andorid, C#"
+url: "https://roneblog.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/HelloRone/HelloRone.github.io" # you code repository
+github_repo: "https://github.com/RoneBlog/RoneBlog.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 63ceabbacca2de1de58f                            #生成的clientID
-  clientSecret: 0d76a388efad7a2d1a93b5e0c5ba0d75d4d5e2c3    #生成的clientSecret
-  repo: HelloRone.github.io    #仓库名称
-  owner: HelloRone    #github用户名
-  admin: HelloRone
+  clientID: 87bb43eae82eeff997e1                            #生成的clientID
+  clientSecret: 0827a8562d4b23c7094ec1ccac67be270ca354df    #生成的clientSecret
+  repo: RoneBlog.github.io    #仓库名称
+  owner: RoneBlog    #github用户名
+  admin: RoneBlog
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
