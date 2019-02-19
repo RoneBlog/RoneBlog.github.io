@@ -11,8 +11,8 @@ github_repo: "https://github.com/RoneBlog/RoneBlog.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "检验代码质量的唯一标准 = 代码Review时骂的次数/代码Review的时间"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "人的一生好像是一个个用时间去做投资的一个个过程的集合。"
+sidebar-avatar: /img/avata_rone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
