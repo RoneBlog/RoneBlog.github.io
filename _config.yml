@@ -63,8 +63,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 87bb43eae82eeff997e1                           #生成的clientID
-  clientSecret: 0827a8562d4b23c7094ec1ccac67be270ca354df   #生成的clientSecret
+  clientID: 7b9d041a812803a784b0                           #生成的clientID
+  clientSecret: ef2eebf0c585b37407a478b719b275c5881fce9c   #生成的clientSecret
   repo: ThisIsRone.github.io    #仓库名称
   owner: ThisIsRone    #github用户名
   admin: ThisIsRone
