@@ -1,28 +1,29 @@
 # Site settings
-title: Rone Blog
-SEOTitle: 曹世荣的博客 | Rone Blog
+title: This Is Rone Blog
+SEOTitle: This Is Rone Blog
 header-img: img/post-bg-desk.jpg
 email: 13592468626@163.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://RoneBlog.github.io"          # your host, for absolute URL
+description: "千里之行，始于足下！"
+keyword: "Rone, Rone Blog, 曹世荣, caoshirong, This Is Rone, ThisIsRone, Unity"
+url: "http://ThisIsRone.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RoneBlog/RoneBlog.github.io.git" # you code repository
+github_repo: "https://github.com/ThisIsRone/ThisIsRone.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Remember:the time you feel lonely is the time you most need to be by yourself. Life’s cruelest irony.- Douglas Coupland"
+sidebar-about-description: "Remember! the time you feel lonely is the time you most need to be by yourself. Life’s cruelest irony.- Douglas Coupland"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
+zhihu_username:     ThisIsRone
+github_username:    ThisIsRone
+jianshu_username:   ThisIsRone
+csdn_username:   ThisIsRone
 # weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-github_username:    RoneBlog
 # facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
