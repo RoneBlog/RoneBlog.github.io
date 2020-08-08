@@ -260,7 +260,7 @@ return step * 10;
 
 [专业的各种寻路算法的Demo](http://qiao.github.io/PathFinding.js/visual/)
 
-[我自己的WebGl Demo](http://ronetop.cn/AStarDemo/)
+[我自己的WebGl Demo](http://182.92.170.79/AStarDemo/)
 
 [AStarDemo的Github工程](https://github.com/ThisIsRone/AStarDemo)
 
