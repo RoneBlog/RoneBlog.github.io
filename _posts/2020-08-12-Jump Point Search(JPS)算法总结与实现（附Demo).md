@@ -2,7 +2,7 @@
 layout:     post
 title:      Jump Point Search(JPS)
 subtitle:  算法总结与实现（附Demo)
-date:       2020-02-28
+date:       2020-08-12
 author:     Rone
 header-img: img/post-bg-digital-native.jpg
 catalog: true
