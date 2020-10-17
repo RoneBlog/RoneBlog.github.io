@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      【教程】使用git通过ump发布Unity插件包（PackageManager）
-subtitle:  邱国鹭
+title:      教程之发布unity插件包
+subtitle:  	使用git通过ump发布Unity插件包（PackageManager）
 date:       2020-09-22
 author:     Rone
-header-img: img/post-bg-coffee.jpg
+header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
      - unity

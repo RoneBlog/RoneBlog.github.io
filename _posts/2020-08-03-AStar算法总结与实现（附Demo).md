@@ -4,7 +4,7 @@ title:      AStar算法总结与实现
 subtitle:  附Demo
 date:       2020-08-03
 author:     Rone
-header-img: img/post-bg-2015.jpg
+header-img: img/home-bg-geek.jpg
 catalog: true
 tags:
      - 算法研究
